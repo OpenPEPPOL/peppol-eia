@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STARTLibrary", "STARTLibrary\STARTLibrary.csproj", "{F8398DDA-C989-4E9F-BD6B-456D8870614B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STARTAccessPoint", "STARTAccessPoint\STARTAccessPoint.csproj", "{657FE120-1216-4685-B739-3B22D1DAD70B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleSTARTClient", "..\SampleSTARTClient\SampleSTARTClient.csproj", "{98818FF6-3E97-4F14-AF26-1F5C842337AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STARTUnitTests", "STARTUnitTests\STARTUnitTests.csproj", "{41540042-9B5B-4BE2-AB23-1C4D7F1AC17C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{200A1D03-96AC-48B1-876F-8654C5A74879}"
+	ProjectSection(SolutionItems) = preProject
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+		START.vsmdi = START.vsmdi
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = START.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8398DDA-C989-4E9F-BD6B-456D8870614B}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{F8398DDA-C989-4E9F-BD6B-456D8870614B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8398DDA-C989-4E9F-BD6B-456D8870614B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8398DDA-C989-4E9F-BD6B-456D8870614B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F8398DDA-C989-4E9F-BD6B-456D8870614B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F8398DDA-C989-4E9F-BD6B-456D8870614B}.Release|.NET.ActiveCfg = Release|Any CPU
+		{F8398DDA-C989-4E9F-BD6B-456D8870614B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8398DDA-C989-4E9F-BD6B-456D8870614B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8398DDA-C989-4E9F-BD6B-456D8870614B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F8398DDA-C989-4E9F-BD6B-456D8870614B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{657FE120-1216-4685-B739-3B22D1DAD70B}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{657FE120-1216-4685-B739-3B22D1DAD70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657FE120-1216-4685-B739-3B22D1DAD70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657FE120-1216-4685-B739-3B22D1DAD70B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{657FE120-1216-4685-B739-3B22D1DAD70B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{657FE120-1216-4685-B739-3B22D1DAD70B}.Release|.NET.ActiveCfg = Release|Any CPU
+		{657FE120-1216-4685-B739-3B22D1DAD70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657FE120-1216-4685-B739-3B22D1DAD70B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{657FE120-1216-4685-B739-3B22D1DAD70B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{657FE120-1216-4685-B739-3B22D1DAD70B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{98818FF6-3E97-4F14-AF26-1F5C842337AE}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{98818FF6-3E97-4F14-AF26-1F5C842337AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98818FF6-3E97-4F14-AF26-1F5C842337AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98818FF6-3E97-4F14-AF26-1F5C842337AE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{98818FF6-3E97-4F14-AF26-1F5C842337AE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{98818FF6-3E97-4F14-AF26-1F5C842337AE}.Release|.NET.ActiveCfg = Release|Any CPU
+		{98818FF6-3E97-4F14-AF26-1F5C842337AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98818FF6-3E97-4F14-AF26-1F5C842337AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98818FF6-3E97-4F14-AF26-1F5C842337AE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{98818FF6-3E97-4F14-AF26-1F5C842337AE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{41540042-9B5B-4BE2-AB23-1C4D7F1AC17C}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{41540042-9B5B-4BE2-AB23-1C4D7F1AC17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41540042-9B5B-4BE2-AB23-1C4D7F1AC17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41540042-9B5B-4BE2-AB23-1C4D7F1AC17C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{41540042-9B5B-4BE2-AB23-1C4D7F1AC17C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{41540042-9B5B-4BE2-AB23-1C4D7F1AC17C}.Release|.NET.ActiveCfg = Release|Any CPU
+		{41540042-9B5B-4BE2-AB23-1C4D7F1AC17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41540042-9B5B-4BE2-AB23-1C4D7F1AC17C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41540042-9B5B-4BE2-AB23-1C4D7F1AC17C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{41540042-9B5B-4BE2-AB23-1C4D7F1AC17C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

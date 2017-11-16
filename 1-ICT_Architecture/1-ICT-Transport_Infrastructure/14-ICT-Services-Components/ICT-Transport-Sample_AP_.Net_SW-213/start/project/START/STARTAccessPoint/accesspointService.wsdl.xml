@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions name="accesspointService" targetNamespace="http://www.w3.org/2009/02/ws-tra" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:tns="http://www.w3.org/2009/02/ws-tra" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex">
+  <wsp:Policy wsu:Id="ResourceBindingPort_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <wsrmp:RMAssertion xmlns:wsrmp="http://docs.oasis-open.org/ws-rx/wsrmp/200702">
+          <wsp:Policy>
+            <wsrmp:DeliveryAssurance>
+              <wsp:Policy>
+                <wsrmp:ExactlyOnce/>
+                <wsrmp:InOrder/>
+              </wsp:Policy>
+            </wsrmp:DeliveryAssurance>
+          </wsp:Policy>
+          <netrmp:InactivityTimeout Milliseconds="60000" xmlns:netrmp="http://schemas.microsoft.com/ws-rx/wsrmp/200702"/>
+          <netrmp:AcknowledgementInterval Milliseconds="200" xmlns:netrmp="http://schemas.microsoft.com/ws-rx/wsrmp/200702"/>
+        </wsrmp:RMAssertion>
+        <sp:AsymmetricBinding xmlns:sp="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702">
+          <wsp:Policy>
+            <sp:InitiatorToken>
+              <wsp:Policy>
+                <sp:X509Token sp:IncludeToken="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702/IncludeToken/AlwaysToRecipient">
+                  <wsp:Policy>
+                    <sp:WssX509V3Token10/>
+                  </wsp:Policy>
+                </sp:X509Token>
+              </wsp:Policy>
+            </sp:InitiatorToken>
+            <sp:RecipientToken>
+              <wsp:Policy>
+                <sp:X509Token sp:IncludeToken="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702/IncludeToken/Never">
+                  <wsp:Policy>
+                    <sp:WssX509V3Token10/>
+                  </wsp:Policy>
+                </sp:X509Token>
+              </wsp:Policy>
+            </sp:RecipientToken>
+            <sp:AlgorithmSuite>
+              <wsp:Policy>
+                <sp:Basic128/>
+              </wsp:Policy>
+            </sp:AlgorithmSuite>
+            <sp:Layout>
+              <wsp:Policy>
+                <sp:Lax/>
+              </wsp:Policy>
+            </sp:Layout>
+            <sp:IncludeTimestamp/>
+            <sp:OnlySignEntireHeadersAndBody/>
+          </wsp:Policy>
+        </sp:AsymmetricBinding>
+        <sp:SignedSupportingTokens xmlns:sp="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702">
+          <wsp:Policy>
+            <sp:IssuedToken sp:IncludeToken="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702/IncludeToken/AlwaysToRecipient">
+              <sp:RequestSecurityTokenTemplate>
+                <trust:TokenType xmlns:trust="http://docs.oasis-open.org/ws-sx/ws-trust/200512">http://docs.oasis-open.org/wss/oasis-wss-saml-token-profile-1.1#SAMLV2.0</trust:TokenType>
+                <trust:KeyType xmlns:trust="http://docs.oasis-open.org/ws-sx/ws-trust/200512">http://docs.oasis-open.org/ws-sx/ws-trust/200512/PublicKey</trust:KeyType>
+              </sp:RequestSecurityTokenTemplate>
+              <wsp:Policy>
+                <sp:RequireInternalReference/>
+              </wsp:Policy>
+            </sp:IssuedToken>
+          </wsp:Policy>
+        </sp:SignedSupportingTokens>
+        <sp:Wss10 xmlns:sp="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702">
+          <wsp:Policy>
+            <sp:MustSupportRefKeyIdentifier/>
+            <sp:MustSupportRefIssuerSerial/>
+          </wsp:Policy>
+        </sp:Wss10>
+        <sp:Trust13 xmlns:sp="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702">
+          <wsp:Policy>
+            <sp:MustSupportIssuedTokens/>
+            <sp:RequireClientEntropy/>
+            <sp:RequireServerEntropy/>
+          </wsp:Policy>
+        </sp:Trust13>
+        <wsaw:UsingAddressing/>
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsp:Policy wsu:Id="ResourceBindingPort_Get_Input_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <sp:SignedParts xmlns:sp="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702">
+          <sp:Body/>
+          <sp:Header Name="Sequence" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="SequenceAcknowledgement" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="AckRequested" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="UsesSequenceSTR" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="To" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="From" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="FaultTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="ReplyTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="MessageID" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="RelatesTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="Action" Namespace="http://www.w3.org/2005/08/addressing"/>
+        </sp:SignedParts>
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsp:Policy wsu:Id="ResourceBindingPort_Get_output_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <sp:SignedParts xmlns:sp="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702">
+          <sp:Body/>
+          <sp:Header Name="Sequence" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="SequenceAcknowledgement" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="AckRequested" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="UsesSequenceSTR" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="To" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="From" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="FaultTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="ReplyTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="MessageID" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="RelatesTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="Action" Namespace="http://www.w3.org/2005/08/addressing"/>
+        </sp:SignedParts>
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsp:Policy wsu:Id="ResourceBindingPort_Put_Input_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <sp:SignedParts xmlns:sp="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702">
+          <sp:Body/>
+          <sp:Header Name="Sequence" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="SequenceAcknowledgement" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="AckRequested" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="UsesSequenceSTR" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="To" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="From" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="FaultTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="ReplyTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="MessageID" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="RelatesTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="Action" Namespace="http://www.w3.org/2005/08/addressing"/>
+        </sp:SignedParts>
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsp:Policy wsu:Id="ResourceBindingPort_Put_output_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <sp:SignedParts xmlns:sp="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702">
+          <sp:Body/>
+          <sp:Header Name="Sequence" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="SequenceAcknowledgement" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="AckRequested" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="UsesSequenceSTR" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="To" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="From" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="FaultTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="ReplyTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="MessageID" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="RelatesTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="Action" Namespace="http://www.w3.org/2005/08/addressing"/>
+        </sp:SignedParts>
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsp:Policy wsu:Id="ResourceBindingPort_Delete_Input_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <sp:SignedParts xmlns:sp="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702">
+          <sp:Body/>
+          <sp:Header Name="Sequence" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="SequenceAcknowledgement" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="AckRequested" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="UsesSequenceSTR" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="To" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="From" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="FaultTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="ReplyTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="MessageID" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="RelatesTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="Action" Namespace="http://www.w3.org/2005/08/addressing"/>
+        </sp:SignedParts>
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsp:Policy wsu:Id="ResourceBindingPort_Delete_output_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <sp:SignedParts xmlns:sp="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702">
+          <sp:Body/>
+          <sp:Header Name="Sequence" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="SequenceAcknowledgement" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="AckRequested" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="UsesSequenceSTR" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="To" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="From" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="FaultTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="ReplyTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="MessageID" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="RelatesTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="Action" Namespace="http://www.w3.org/2005/08/addressing"/>
+        </sp:SignedParts>
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsp:Policy wsu:Id="ResourceBindingPort_Create_Input_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <sp:SignedParts xmlns:sp="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702">
+          <sp:Body/>
+          <sp:Header Name="ChannelIdentifier" Namespace="http://busdox.org/transport/identifiers/1.0/"/>
+          <sp:Header Name="DocumentIdentifier" Namespace="http://busdox.org/transport/identifiers/1.0/"/>
+          <sp:Header Name="MessageIdentifier" Namespace="http://busdox.org/transport/identifiers/1.0/"/>
+          <sp:Header Name="ProcessIdentifier" Namespace="http://busdox.org/transport/identifiers/1.0/"/>
+          <sp:Header Name="RecipientIdentifier" Namespace="http://busdox.org/transport/identifiers/1.0/"/>
+          <sp:Header Name="SenderIdentifier" Namespace="http://busdox.org/transport/identifiers/1.0/"/>
+          <sp:Header Name="Sequence" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="SequenceAcknowledgement" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="AckRequested" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="UsesSequenceSTR" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="To" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="From" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="FaultTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="ReplyTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="MessageID" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="RelatesTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="Action" Namespace="http://www.w3.org/2005/08/addressing"/>
+        </sp:SignedParts>
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsp:Policy wsu:Id="ResourceBindingPort_Create_output_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <sp:SignedParts xmlns:sp="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702">
+          <sp:Body/>
+          <sp:Header Name="Sequence" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="SequenceAcknowledgement" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="AckRequested" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="UsesSequenceSTR" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="To" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="From" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="FaultTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="ReplyTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="MessageID" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="RelatesTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="Action" Namespace="http://www.w3.org/2005/08/addressing"/>
+        </sp:SignedParts>
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsp:Policy wsu:Id="ResourceBindingPort_Create_StartException_Fault">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <sp:SignedParts xmlns:sp="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702">
+          <sp:Body/>
+          <sp:Header Name="Sequence" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="SequenceAcknowledgement" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="AckRequested" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="UsesSequenceSTR" Namespace="http://docs.oasis-open.org/ws-rx/wsrm/200702"/>
+          <sp:Header Name="To" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="From" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="FaultTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="ReplyTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="MessageID" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="RelatesTo" Namespace="http://www.w3.org/2005/08/addressing"/>
+          <sp:Header Name="Action" Namespace="http://www.w3.org/2005/08/addressing"/>
+        </sp:SignedParts>
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://www.w3.org/2009/02/ws-tra/Imports">
+      <xsd:import schemaLocation="https://192.168.1.40:443/start-ap/accesspointService.svc?xsd=xsd0" namespace="http://www.w3.org/2009/02/ws-tra"/>
+      <xsd:import schemaLocation="https://192.168.1.40:443/start-ap/accesspointService.svc?xsd=xsd1" namespace="http://busdox.org/transport/identifiers/1.0/"/>
+      <xsd:import schemaLocation="https://192.168.1.40:443/start-ap/accesspointService.svc?xsd=xsd4" namespace="http://busdox.org/2010/02/channel/fault"/>
+      <xsd:import schemaLocation="https://192.168.1.40:443/start-ap/accesspointService.svc?xsd=xsd2" namespace="http://www.w3.org/2005/08/addressing"/>
+      <xsd:import schemaLocation="https://192.168.1.40:443/start-ap/accesspointService.svc?xsd=xsd3" namespace="http://schemas.microsoft.com/2003/10/Serialization/"/>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="GetRequest">
+    <wsdl:part name="Get" element="tns:Get"/>
+  </wsdl:message>
+  <wsdl:message name="GetResponse1">
+    <wsdl:part name="GetResponse" element="tns:GetResponse"/>
+  </wsdl:message>
+  <wsdl:message name="PutRequest">
+    <wsdl:part name="Put" element="tns:Put"/>
+  </wsdl:message>
+  <wsdl:message name="PutResponse1">
+    <wsdl:part name="PutResponse" element="tns:PutResponse"/>
+  </wsdl:message>
+  <wsdl:message name="DeleteRequest">
+    <wsdl:part name="Delete" element="tns:Delete"/>
+  </wsdl:message>
+  <wsdl:message name="DeleteResponse1">
+    <wsdl:part name="DeleteResponse" element="tns:DeleteResponse"/>
+  </wsdl:message>
+  <wsdl:message name="CreateRequest">
+    <wsdl:part name="Create" element="tns:Create"/>
+  </wsdl:message>
+  <wsdl:message name="CreateRequest_Headers">
+    <wsdl:part name="ChannelIdentifier" element="q1:ChannelIdentifier" xmlns:q1="http://busdox.org/transport/identifiers/1.0/"/>
+    <wsdl:part name="DocumentIdentifier" element="q2:DocumentIdentifier" xmlns:q2="http://busdox.org/transport/identifiers/1.0/"/>
+    <wsdl:part name="MessageIdentifier" element="q3:MessageIdentifier" xmlns:q3="http://busdox.org/transport/identifiers/1.0/"/>
+    <wsdl:part name="ProcessIdentifier" element="q4:ProcessIdentifier" xmlns:q4="http://busdox.org/transport/identifiers/1.0/"/>
+    <wsdl:part name="RecipientIdentifier" element="q5:RecipientIdentifier" xmlns:q5="http://busdox.org/transport/identifiers/1.0/"/>
+    <wsdl:part name="SenderIdentifier" element="q6:SenderIdentifier" xmlns:q6="http://busdox.org/transport/identifiers/1.0/"/>
+  </wsdl:message>
+  <wsdl:message name="CreateResponse1">
+    <wsdl:part name="CreateResponse" element="tns:CreateResponse"/>
+  </wsdl:message>
+  <wsdl:message name="accesspointService_Create_StartException_FaultMessage">
+    <wsdl:part name="detail" element="q7:StartException" xmlns:q7="http://busdox.org/2010/02/channel/fault"/>
+  </wsdl:message>
+  <wsdl:portType name="accesspointService">
+    <wsdl:operation name="Get">
+      <wsdl:input wsaw:Action="http://www.w3.org/2009/02/ws-tra/Get" name="GetRequest" message="tns:GetRequest"/>
+      <wsdl:output wsaw:Action="http://www.w3.org/2009/02/ws-tra/GetResponse" name="GetResponse1" message="tns:GetResponse1"/>
+    </wsdl:operation>
+    <wsdl:operation name="Put">
+      <wsdl:input wsaw:Action="http://www.w3.org/2009/02/ws-tra/Put" name="PutRequest" message="tns:PutRequest"/>
+      <wsdl:output wsaw:Action="http://www.w3.org/2009/02/ws-tra/PutResponse" name="PutResponse1" message="tns:PutResponse1"/>
+    </wsdl:operation>
+    <wsdl:operation name="Delete">
+      <wsdl:input wsaw:Action="http://www.w3.org/2009/02/ws-tra/Delete" name="DeleteRequest" message="tns:DeleteRequest"/>
+      <wsdl:output wsaw:Action="http://www.w3.org/2009/02/ws-tra/DeleteResponse" name="DeleteResponse1" message="tns:DeleteResponse1"/>
+    </wsdl:operation>
+    <wsdl:operation name="Create">
+      <wsdl:input wsaw:Action="http://www.w3.org/2009/02/ws-tra/Create" name="CreateRequest" message="tns:CreateRequest"/>
+      <wsdl:output wsaw:Action="http://www.w3.org/2009/02/ws-tra/CreateResponse" name="CreateResponse1" message="tns:CreateResponse1"/>
+      <wsdl:fault wsaw:Action="http://busdox.org/2010/02/channel/fault" name="StartException" message="tns:accesspointService_Create_StartException_FaultMessage"/>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ResourceBindingPort" type="tns:accesspointService">
+    <wsp:PolicyReference URI="#ResourceBindingPort_policy"/>
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="Get">
+      <soap:operation soapAction="http://www.w3.org/2009/02/ws-tra/Get" style="document"/>
+      <wsdl:input name="GetRequest">
+        <wsp:PolicyReference URI="#ResourceBindingPort_Get_Input_policy"/>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="GetResponse1">
+        <wsp:PolicyReference URI="#ResourceBindingPort_Get_output_policy"/>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Put">
+      <soap:operation soapAction="http://www.w3.org/2009/02/ws-tra/Put" style="document"/>
+      <wsdl:input name="PutRequest">
+        <wsp:PolicyReference URI="#ResourceBindingPort_Put_Input_policy"/>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="PutResponse1">
+        <wsp:PolicyReference URI="#ResourceBindingPort_Put_output_policy"/>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Delete">
+      <soap:operation soapAction="http://www.w3.org/2009/02/ws-tra/Delete" style="document"/>
+      <wsdl:input name="DeleteRequest">
+        <wsp:PolicyReference URI="#ResourceBindingPort_Delete_Input_policy"/>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="DeleteResponse1">
+        <wsp:PolicyReference URI="#ResourceBindingPort_Delete_output_policy"/>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Create">
+      <soap:operation soapAction="http://www.w3.org/2009/02/ws-tra/Create" style="document"/>
+      <wsdl:input name="CreateRequest">
+        <wsp:PolicyReference URI="#ResourceBindingPort_Create_Input_policy"/>
+        <soap:header message="tns:CreateRequest_Headers" part="ChannelIdentifier" use="literal"/>
+        <soap:header message="tns:CreateRequest_Headers" part="DocumentIdentifier" use="literal"/>
+        <soap:header message="tns:CreateRequest_Headers" part="MessageIdentifier" use="literal"/>
+        <soap:header message="tns:CreateRequest_Headers" part="ProcessIdentifier" use="literal"/>
+        <soap:header message="tns:CreateRequest_Headers" part="RecipientIdentifier" use="literal"/>
+        <soap:header message="tns:CreateRequest_Headers" part="SenderIdentifier" use="literal"/>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="CreateResponse1">
+        <wsp:PolicyReference URI="#ResourceBindingPort_Create_output_policy"/>
+        <soap:body use="literal"/>
+      </wsdl:output>
+      <wsdl:fault name="StartException">
+        <wsp:PolicyReference URI="#ResourceBindingPort_Create_StartException_Fault"/>
+        <soap:fault name="StartException" use="literal"/>
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="accesspointService">
+    <wsdl:port name="ResourceBindingPort" binding="tns:ResourceBindingPort">
+      <soap:address location="https://192.168.1.40:443/start-ap/accesspointService.svc"/>
+      <wsa10:EndpointReference>
+        <wsa10:Address>https://192.168.1.40:443/start-ap/accesspointService.svc</wsa10:Address>
+        <Identity xmlns="http://schemas.xmlsoap.org/ws/2006/02/addressingidentity">
+          <KeyInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <X509Data>
+              <X509Certificate></X509Certificate>
+            </X509Data>
+          </KeyInfo>
+        </Identity>
+      </wsa10:EndpointReference>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

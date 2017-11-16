@@ -1,0 +1,76 @@
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\STARTUnitTests.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\STARTUnitTests.pdb
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.dll
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.pdb
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\STARTUnitTests.dll
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\STARTUnitTests.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\STARTUnitTests.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\STARTUnitTests.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.dll.config
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.dll.config
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\STARTUnitTests.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\STARTUnitTests.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.dll.config
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\STARTUnitTests.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\STARTUnitTests.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.dll.config
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\STARTUnitTests.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\STARTUnitTests.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.dll.config
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\STARTUnitTests.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\STARTUnitTests.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\STARTUnitTests.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.dll.config
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\Mono.Security.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\STARTUnitTests.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.dll.config
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTUnitTests.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\Mono.Security.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\START\STARTUnitTests\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\STARTUnitTests.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\START\STARTUnitTests\obj\Debug\STARTUnitTests.pdb

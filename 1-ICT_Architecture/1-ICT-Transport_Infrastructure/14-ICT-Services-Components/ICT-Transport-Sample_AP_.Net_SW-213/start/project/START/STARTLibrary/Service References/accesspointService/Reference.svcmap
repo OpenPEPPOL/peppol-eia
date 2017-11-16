@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="596edab9-bf5a-4155-a1d0-2b465a73e2a3" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\RELEASE\dotnet-peppol-start\project\START\STARTLibrary\PEPPOL-WSDL\peppol-start-2.0.wsdl" Protocol="file" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="peppol-start-2.wsdl" MetadataType="Wsdl" ID="ffc24899-348c-4c79-a942-75a63855c7df" SourceId="1" SourceUrl="file:///C:/Users/Luigi/Desktop/FILES/ALFA1LAB-PROJECTS/PEPPOL/WORKING-SOURCE/https version/RELEASE/dotnet-peppol-start/project/START/STARTLibrary/PEPPOL-WSDL/peppol-start-2.0.wsdl" />
+    <MetadataFile FileName="ws-start-exceptions.xsd" MetadataType="Schema" ID="824bd723-2bcb-47c7-95b6-6a0a382a1c39" SourceId="1" SourceUrl="file:///C:/Users/Luigi/Desktop/FILES/ALFA1LAB-PROJECTS/PEPPOL/WORKING-SOURCE/https version/RELEASE/dotnet-peppol-start/project/START/STARTLibrary/PEPPOL-WSDL/ws-start-exceptions.xsd" />
+    <MetadataFile FileName="ws-tra.xsd" MetadataType="Schema" ID="7e536b57-41ce-4f9c-b341-fc5564e3ae5c" SourceId="1" SourceUrl="file:///C:/Users/Luigi/Desktop/FILES/ALFA1LAB-PROJECTS/PEPPOL/WORKING-SOURCE/https version/RELEASE/dotnet-peppol-start/project/START/STARTLibrary/PEPPOL-WSDL/ws-tra.xsd" />
+    <MetadataFile FileName="ws-addr.xsd" MetadataType="Schema" ID="5d0eca7e-98e1-4b0a-8813-90ebab81fc59" SourceId="1" SourceUrl="http://www.w3.org/2006/03/addressing/ws-addr.xsd" />
+    <MetadataFile FileName="Identifiers.xsd" MetadataType="Schema" ID="1f9a45a6-3160-460b-b227-585ba440bf16" SourceId="1" SourceUrl="file:///C:/Users/Luigi/Desktop/FILES/ALFA1LAB-PROJECTS/PEPPOL/WORKING-SOURCE/https version/RELEASE/dotnet-peppol-start/project/START/STARTLibrary/PEPPOL-WSDL/Identifiers-1.0.xsd" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

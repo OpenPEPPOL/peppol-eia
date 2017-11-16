@@ -1,0 +1,197 @@
+C:\Users\Luigi\Desktop\AccessPoint_25-07\AccessPoint_25-07\AccessPoint\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\AccessPoint_25-07\AccessPoint_25-07\AccessPoint\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\AccessPoint_25-07\AccessPoint_25-07\AccessPoint\STARTAccessPoint\bin\AccessPointLogic.dll
+C:\Users\Luigi\Desktop\AccessPoint_25-07\AccessPoint_25-07\AccessPoint\STARTAccessPoint\bin\AccessPointLogic.pdb
+C:\Users\Luigi\Desktop\AccessPoint_25-07\AccessPoint_25-07\AccessPoint\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\AccessPoint_25-07\AccessPoint_25-07\AccessPoint\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\AccessPoint_25-07\AccessPoint_25-07\AccessPoint\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\DotNet-StartAP\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\DotNet-StartAP\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\DotNet-StartAP\STARTAccessPoint\bin\AccessPointLogic.dll
+C:\Users\Luigi\Desktop\DotNet-StartAP\STARTAccessPoint\bin\AccessPointLogic.pdb
+C:\Users\Luigi\Desktop\DotNet-StartAP\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\DotNet-StartAP\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\DotNet-StartAP\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\SAMPLE IMPLEMENTATION\PROJECTS\START-AP\DotNet-StartAP\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\SAMPLE IMPLEMENTATION\PROJECTS\START-AP\DotNet-StartAP\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\SAMPLE IMPLEMENTATION\PROJECTS\START-AP\DotNet-StartAP\STARTAccessPoint\bin\AccessPointLogic.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\SAMPLE IMPLEMENTATION\PROJECTS\START-AP\DotNet-StartAP\STARTAccessPoint\bin\AccessPointLogic.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\SAMPLE IMPLEMENTATION\PROJECTS\START-AP\DotNet-StartAP\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\SAMPLE IMPLEMENTATION\PROJECTS\START-AP\DotNet-StartAP\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\SAMPLE IMPLEMENTATION\PROJECTS\START-AP\DotNet-StartAP\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Kalo\Desktop\PEPOL\PEPPOL-2011-08-04\DotNet-StartAP\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Kalo\Desktop\PEPOL\PEPPOL-2011-08-04\DotNet-StartAP\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Kalo\Desktop\PEPOL\PEPPOL-2011-08-04\DotNet-StartAP\STARTAccessPoint\bin\AccessPointLogic.dll
+C:\Users\Kalo\Desktop\PEPOL\PEPPOL-2011-08-04\DotNet-StartAP\STARTAccessPoint\bin\AccessPointLogic.pdb
+C:\Users\Kalo\Desktop\PEPOL\PEPPOL-2011-08-04\DotNet-StartAP\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kalo\Desktop\PEPOL\PEPPOL-2011-08-04\DotNet-StartAP\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Kalo\Desktop\PEPOL\PEPPOL-2011-08-04\DotNet-StartAP\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Kalo\Desktop\PEPOL\OLD.versions.AP\PEPPOL-2011-08-04\DotNet-StartAP\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Kalo\Desktop\PEPOL\OLD.versions.AP\PEPPOL-2011-08-04\DotNet-StartAP\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Kalo\Desktop\PEPOL\OLD.versions.AP\PEPPOL-2011-08-04\DotNet-StartAP\STARTAccessPoint\bin\AccessPointLogic.dll
+C:\Users\Kalo\Desktop\PEPOL\OLD.versions.AP\PEPPOL-2011-08-04\DotNet-StartAP\STARTAccessPoint\bin\AccessPointLogic.pdb
+C:\Users\Kalo\Desktop\PEPOL\OLD.versions.AP\PEPPOL-2011-08-04\DotNet-StartAP\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kalo\Desktop\PEPOL\OLD.versions.AP\PEPPOL-2011-08-04\DotNet-StartAP\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Kalo\Desktop\PEPOL\OLD.versions.AP\PEPPOL-2011-08-04\DotNet-StartAP\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Kalo\Desktop\PEPOL\Certs\kalo\New\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Kalo\Desktop\PEPOL\Certs\kalo\New\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Kalo\Desktop\PEPOL\Certs\kalo\New\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Kalo\Desktop\PEPOL\Certs\kalo\New\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Kalo\Desktop\PEPOL\Certs\kalo\New\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kalo\Desktop\PEPOL\Certs\kalo\New\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Kalo\Desktop\PEPOL\Certs\kalo\New\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\START\STARTAccessPoint\bin\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\NET-START_22-08\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\NET-START_22-08\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\NET-START_22-08\project\START\STARTAccessPoint\bin\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\NET-START_22-08\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Luigi\Desktop\NET-START_22-08\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\NET-START_22-08\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\NET-START_22-08\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\NET-START_22-08\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Kalo\Desktop\PEPOL\NET-START_22-08\NET-START_22-08\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Kalo\Desktop\PEPOL\NET-START_22-08\NET-START_22-08\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Kalo\Desktop\PEPOL\NET-START_22-08\NET-START_22-08\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Kalo\Desktop\PEPOL\NET-START_22-08\NET-START_22-08\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Kalo\Desktop\PEPOL\NET-START_22-08\NET-START_22-08\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kalo\Desktop\PEPOL\NET-START_22-08\NET-START_22-08\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Kalo\Desktop\PEPOL\NET-START_22-08\NET-START_22-08\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\NET-START_24-08\NET-START_24-08\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\NET-START_24-08\NET-START_24-08\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\NET-START_24-08\NET-START_24-08\project\START\STARTAccessPoint\bin\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\NET-START_24-08\NET-START_24-08\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Luigi\Desktop\NET-START_24-08\NET-START_24-08\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\NET-START_24-08\NET-START_24-08\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\NET-START_24-08\NET-START_24-08\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\NET-START_24-08\NET-START_24-08\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\NET-START_24-08-HTTP\NET-START_24-08\NET-START_24-08\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\NET-START_24-08-HTTP\NET-START_24-08\NET-START_24-08\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\NET-START_24-08-HTTP\NET-START_24-08\NET-START_24-08\project\START\STARTAccessPoint\bin\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\NET-START_24-08-HTTP\NET-START_24-08\NET-START_24-08\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Luigi\Desktop\NET-START_24-08-HTTP\NET-START_24-08\NET-START_24-08\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\NET-START_24-08-HTTP\NET-START_24-08\NET-START_24-08\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\NET-START_24-08-HTTP\NET-START_24-08\NET-START_24-08\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\NET-START_24-08-HTTP\NET-START_24-08\NET-START_24-08\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\NET-START_29-08\NET-START_29-08\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\NET-START_29-08\NET-START_29-08\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\NET-START_29-08\NET-START_29-08\project\START\STARTAccessPoint\bin\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\NET-START_29-08\NET-START_29-08\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Luigi\Desktop\NET-START_29-08\NET-START_29-08\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\NET-START_29-08\NET-START_29-08\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\NET-START_29-08\NET-START_29-08\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\NET-START_29-08\NET-START_29-08\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Kalo\Desktop\PEPOL\NET-START_29-08\NET-START_29-08\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Kalo\Desktop\PEPOL\NET-START_29-08\NET-START_29-08\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Kalo\Desktop\PEPOL\NET-START_29-08\NET-START_29-08\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Kalo\Desktop\PEPOL\NET-START_29-08\NET-START_29-08\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Kalo\Desktop\PEPOL\NET-START_29-08\NET-START_29-08\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kalo\Desktop\PEPOL\NET-START_29-08\NET-START_29-08\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Kalo\Desktop\PEPOL\NET-START_29-08\NET-START_29-08\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\NET-START_07-11\NET-START_29-08\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\NET-START_07-11\NET-START_29-08\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\NET-START_07-11\NET-START_29-08\project\START\STARTAccessPoint\bin\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\NET-START_07-11\NET-START_29-08\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Luigi\Desktop\NET-START_07-11\NET-START_29-08\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\NET-START_07-11\NET-START_29-08\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\NET-START_07-11\NET-START_29-08\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\NET-START_07-11\NET-START_29-08\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\dotnet-peppol-start-https\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\dotnet-peppol-start-https\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\dotnet-peppol-start-https\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Luigi\Desktop\dotnet-peppol-start-https\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\dotnet-peppol-start-https\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\dotnet-peppol-start-https\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\dotnet-peppol-start-https\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Kalo\Desktop\PEPOL\09-09-11\dotnet-peppol-start-https\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Kalo\Desktop\PEPOL\09-09-11\dotnet-peppol-start-https\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Kalo\Desktop\PEPOL\09-09-11\dotnet-peppol-start-https\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Kalo\Desktop\PEPOL\09-09-11\dotnet-peppol-start-https\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Kalo\Desktop\PEPOL\09-09-11\dotnet-peppol-start-https\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kalo\Desktop\PEPOL\09-09-11\dotnet-peppol-start-https\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Kalo\Desktop\PEPOL\09-09-11\dotnet-peppol-start-https\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+K:\09-09-11\dotnet-peppol-start-https\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+K:\09-09-11\dotnet-peppol-start-https\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+K:\09-09-11\dotnet-peppol-start-https\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+K:\09-09-11\dotnet-peppol-start-https\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+K:\09-09-11\dotnet-peppol-start-https\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+K:\09-09-11\dotnet-peppol-start-https\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+K:\09-09-11\dotnet-peppol-start-https\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL-Start\dotnet-peppol-start-https\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL-Start\dotnet-peppol-start-https\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL-Start\dotnet-peppol-start-https\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL-Start\dotnet-peppol-start-https\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL-Start\dotnet-peppol-start-https\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL-Start\dotnet-peppol-start-https\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL-Start\dotnet-peppol-start-https\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\START\STARTAccessPoint\bin\Mono.Security.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTAccessPoint.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\START\STARTAccessPoint\bin\Mono.Security.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\START\STARTAccessPoint\bin\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\START\STARTAccessPoint\obj\Debug\STARTAccessPoint.pdb

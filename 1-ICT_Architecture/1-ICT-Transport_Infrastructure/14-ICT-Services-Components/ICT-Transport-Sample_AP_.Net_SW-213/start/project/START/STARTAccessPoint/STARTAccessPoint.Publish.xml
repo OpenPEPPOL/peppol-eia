@@ -1,0 +1,56 @@
+<publishData>
+  <publishTarget publishUrl="C:\accesspointService\start-ap\">
+    <file relUrl="bin/STARTAccessPoint.pdb" publishTime="10/06/2011 16:12:59" />
+    <file relUrl="bin/App_Data/Certificates/alfa1lab-test-keystore.pfx" publishTime="08/11/2011 16:50:06" />
+    <file relUrl="bin/STARTLibrary.pdb" publishTime="10/06/2011 16:12:58" />
+    <file relUrl="bin/STARTAccessPoint.dll" publishTime="10/06/2011 16:12:59" />
+    <file relUrl="Web.config" publishTime="10/06/2011 10:39:33" />
+    <file relUrl="accesspointService.wsdl.xml" publishTime="10/06/2011 16:12:54" />
+    <file relUrl="bin/App_Data/Certificates/alfa1lab-test-truststore.pfx" publishTime="08/11/2011 16:50:10" />
+    <file relUrl="accesspointService.svc" publishTime="08/16/2011 17:49:43" />
+    <file relUrl="bin/Microsoft.IdentityModel.dll" publishTime="02/02/2010 18:03:05" />
+    <file relUrl="bin/STARTLibrary.dll" publishTime="10/06/2011 16:12:58" />
+    <file relUrl="Web.peppol.certificates.config" publishTime="10/04/2011 14:23:55" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\accesspointService\">
+    <file relUrl="bin/STARTAccessPoint.pdb" publishTime="09/15/2011 16:19:08" />
+    <file relUrl="accesspointService.svc" publishTime="08/16/2011 17:49:43" />
+    <file relUrl="bin/STARTLibrary.pdb" publishTime="09/15/2011 16:19:08" />
+    <file relUrl="bin/Microsoft.IdentityModel.dll" publishTime="02/02/2010 18:03:05" />
+    <file relUrl="Web.config" publishTime="09/15/2011 15:38:19" />
+    <file relUrl="accesspointService.wsdl.xml" publishTime="09/15/2011 15:32:05" />
+    <file relUrl="bin/App_Data/Certificates/alfa1lab-test-truststore.pfx" publishTime="08/11/2011 16:50:10" />
+    <file relUrl="Web.peppol.certificates.config" publishTime="09/08/2011 14:47:01" />
+    <file relUrl="bin/STARTAccessPoint.dll" publishTime="09/15/2011 16:19:08" />
+    <file relUrl="bin/STARTLibrary.dll" publishTime="09/15/2011 16:19:08" />
+    <file relUrl="bin/App_Data/Certificates/alfa1lab-test-keystore.pfx" publishTime="08/11/2011 16:50:06" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Users\Kalo\Desktop\PEPOL\Publish\">
+    <file relUrl="Web.peppol.certificates.config" publishTime="08/24/2011 13:41:13" />
+    <file relUrl="bin/STARTAccessPoint.pdb" publishTime="09/06/2011 12:04:04" />
+    <file relUrl="bin/STARTLibrary.pdb" publishTime="09/06/2011 12:04:04" />
+    <file relUrl="bin/Microsoft.IdentityModel.dll" publishTime="02/02/2010 18:03:05" />
+    <file relUrl="Web.config" publishTime="09/05/2011 11:40:17" />
+    <file relUrl="bin/AccessPointLogic.pdb" publishTime="08/12/2011 11:15:28" />
+    <file relUrl="bin/App_Data/Certificates/alfa1lab-test-truststore.pfx" publishTime="08/11/2011 16:50:10" />
+    <file relUrl="accesspointService.svc" publishTime="08/16/2011 17:49:43" />
+    <file relUrl="bin/STARTAccessPoint.dll" publishTime="09/06/2011 12:04:04" />
+    <file relUrl="bin/STARTLibrary.dll" publishTime="09/06/2011 12:04:04" />
+    <file relUrl="bin/App_Data/Certificates/alfa1lab-test-keystore.pfx" publishTime="08/11/2011 16:50:06" />
+    <file relUrl="bin/AccessPointLogic.dll" publishTime="08/12/2011 11:15:28" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Users\Luigi\Desktop\publish\">
+    <file relUrl="bin/STARTAccessPoint.pdb" publishTime="08/29/2011 10:42:29" />
+    <file relUrl="AccessPointService.svc" publishTime="08/16/2011 17:49:43" />
+    <file relUrl="bin/STARTLibrary.pdb" publishTime="08/29/2011 10:42:29" />
+    <file relUrl="bin/STARTAccessPoint.dll" publishTime="08/29/2011 10:42:29" />
+    <file relUrl="Web.config" publishTime="08/29/2011 10:33:41" />
+    <file relUrl="bin/App_Data/Certificates/alfa1lab-test-truststore.pfx" publishTime="08/11/2011 16:50:10" />
+    <file relUrl="bin/AccessPointLogic.pdb" publishTime="08/12/2011 11:15:28" />
+    <file relUrl="bin/App_Data/Certificates/alfa1lab-test-keystore.pfx" publishTime="08/11/2011 16:50:06" />
+    <file relUrl="bin/Microsoft.IdentityModel.dll" publishTime="02/02/2010 18:03:05" />
+    <file relUrl="bin/STARTLibrary.dll" publishTime="08/29/2011 10:42:29" />
+    <file relUrl="Web.peppol.certificates.config" publishTime="08/24/2011 13:41:13" />
+    <file relUrl="bin/AccessPointLogic.dll" publishTime="08/12/2011 11:15:28" />
+  </publishTarget>
+</publishData>

@@ -1,0 +1,200 @@
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\SampleMathWCFClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\SampleMathWCFClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\SampleMathWCFClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\SampleMathWCFClient\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\SampleMathWCFClient\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\SampleMathWCFClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\SampleMathWCFClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\SampleMathWCFClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\SampleMathWCFClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\SampleSTARTClient\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\START-18-Aug-11\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\NET-START_22-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\NET-START_22-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\NET-START_22-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\NET-START_22-08\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\NET-START_22-08\project\SampleSTARTClient\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\NET-START_22-08\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\NET-START_22-08\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\NET-START_22-08\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\NET-START_22-08\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Kalo\Desktop\PEPOL\NET-START_22-08\NET-START_22-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Kalo\Desktop\PEPOL\NET-START_22-08\NET-START_22-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Kalo\Desktop\PEPOL\NET-START_22-08\NET-START_22-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Kalo\Desktop\PEPOL\NET-START_22-08\NET-START_22-08\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Kalo\Desktop\PEPOL\NET-START_22-08\NET-START_22-08\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Kalo\Desktop\PEPOL\NET-START_22-08\NET-START_22-08\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kalo\Desktop\PEPOL\NET-START_22-08\NET-START_22-08\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Kalo\Desktop\PEPOL\NET-START_22-08\NET-START_22-08\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\NET-START_24-08\NET-START_24-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\NET-START_24-08\NET-START_24-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\NET-START_24-08\NET-START_24-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\NET-START_24-08\NET-START_24-08\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\NET-START_24-08\NET-START_24-08\project\SampleSTARTClient\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\NET-START_24-08\NET-START_24-08\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\NET-START_24-08\NET-START_24-08\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\NET-START_24-08\NET-START_24-08\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\NET-START_24-08\NET-START_24-08\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\NET-START_24-08-HTTP\NET-START_24-08\NET-START_24-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\NET-START_24-08-HTTP\NET-START_24-08\NET-START_24-08\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\NET-START_24-08-HTTP\NET-START_24-08\NET-START_24-08\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\NET-START_24-08-HTTP\NET-START_24-08\NET-START_24-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\NET-START_24-08-HTTP\NET-START_24-08\NET-START_24-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\NET-START_24-08-HTTP\NET-START_24-08\NET-START_24-08\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\NET-START_24-08-HTTP\NET-START_24-08\NET-START_24-08\project\SampleSTARTClient\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\NET-START_24-08-HTTP\NET-START_24-08\NET-START_24-08\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\NET-START_24-08-HTTP\NET-START_24-08\NET-START_24-08\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\NET-START_29-08\NET-START_29-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\NET-START_29-08\NET-START_29-08\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\NET-START_29-08\NET-START_29-08\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\NET-START_29-08\NET-START_29-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\NET-START_29-08\NET-START_29-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\NET-START_29-08\NET-START_29-08\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\NET-START_29-08\NET-START_29-08\project\SampleSTARTClient\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\NET-START_29-08\NET-START_29-08\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\NET-START_29-08\NET-START_29-08\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kalo\Desktop\PEPOL\NET-START_29-08\NET-START_29-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Kalo\Desktop\PEPOL\NET-START_29-08\NET-START_29-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Kalo\Desktop\PEPOL\NET-START_29-08\NET-START_29-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Kalo\Desktop\PEPOL\NET-START_29-08\NET-START_29-08\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Kalo\Desktop\PEPOL\NET-START_29-08\NET-START_29-08\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Kalo\Desktop\PEPOL\NET-START_29-08\NET-START_29-08\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kalo\Desktop\PEPOL\NET-START_29-08\NET-START_29-08\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Kalo\Desktop\PEPOL\NET-START_29-08\NET-START_29-08\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\NET-START_07-11\NET-START_29-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\NET-START_07-11\NET-START_29-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\NET-START_07-11\NET-START_29-08\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\NET-START_07-11\NET-START_29-08\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\NET-START_07-11\NET-START_29-08\project\SampleSTARTClient\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\NET-START_07-11\NET-START_29-08\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\NET-START_07-11\NET-START_29-08\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\NET-START_07-11\NET-START_29-08\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\NET-START_07-11\NET-START_29-08\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\dotnet-peppol-start-https\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\dotnet-peppol-start-https\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\dotnet-peppol-start-https\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Kalo\Desktop\PEPOL\09-09-11\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Kalo\Desktop\PEPOL\09-09-11\dotnet-peppol-start-https\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Kalo\Desktop\PEPOL\09-09-11\dotnet-peppol-start-https\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Kalo\Desktop\PEPOL\09-09-11\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Kalo\Desktop\PEPOL\09-09-11\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Kalo\Desktop\PEPOL\09-09-11\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Kalo\Desktop\PEPOL\09-09-11\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Kalo\Desktop\PEPOL\09-09-11\dotnet-peppol-start-https\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+K:\09-09-11\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+K:\09-09-11\dotnet-peppol-start-https\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+K:\09-09-11\dotnet-peppol-start-https\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+K:\09-09-11\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+K:\09-09-11\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+K:\09-09-11\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+K:\09-09-11\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+K:\09-09-11\dotnet-peppol-start-https\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+K:\09-09-11\dotnet-peppol-start-https-comentado\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+K:\09-09-11\dotnet-peppol-start-https-comentado\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+K:\09-09-11\dotnet-peppol-start-https-comentado\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL-Start\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL-Start\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL-Start\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL-Start\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL-Start\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL-Start\dotnet-peppol-start-https\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL-Start\dotnet-peppol-start-https\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL-Start\dotnet-peppol-start-https\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL-Start\dotnet-peppol-start-https\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\PROJECTS\PEPPOL_SVN-15-09-2011-FULL\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-07-10\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\SVN-Update-15-12-2011\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\RELEASE\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\RELEASE\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\RELEASE\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_16-01-2012\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\Mono.Security.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_12-03-2012\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe.config
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.exe
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\SampleSTARTClient.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\STARTLibrary.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\Mono.Security.dll
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\SampleSTARTClient\bin\Debug\STARTLibrary.pdb
+C:\Users\Luigi\Desktop\FILES\ALFA1LAB-PROJECTS\PEPPOL\WORKING-SOURCE\https version\release_2.1.3_04-04-2012\dotnet-peppol-start\project\SampleSTARTClient\obj\Debug\ResolveAssemblyReference.cache
